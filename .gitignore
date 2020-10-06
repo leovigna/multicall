@@ -1,1 +1,7 @@
+# Custom
+migrations
+types
+node_modules
+build
+# Default
 /out
